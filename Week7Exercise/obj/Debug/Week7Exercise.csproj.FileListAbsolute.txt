@@ -1,0 +1,10 @@
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.csprojAssemblyReference.cache
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.Form1.resources
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.Properties.Resources.resources
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.csproj.GenerateResource.cache
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\bin\Debug\Week7Exercise.exe.config
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\bin\Debug\Week7Exercise.exe
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\bin\Debug\Week7Exercise.pdb
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.exe
+C:\Users\ricde\source\repos\Week7Exercise\Week7Exercise\obj\Debug\Week7Exercise.pdb
